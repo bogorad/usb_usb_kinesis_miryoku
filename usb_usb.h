@@ -249,20 +249,25 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *                                 | BkSp | Del  |------|         |------|Return| Space|
 *                                 |      |      | End  |         | PgDn |      |      |
 *                                 `--------------------'         `--------------------'
-left half first:
-esc, F1-F9
+left half:
+esc, F1-F8
 = 12345
 tab qwert
 caps asdfg
 sft zxcvb
-`\<<>>
+`\ left right
+ctrl alt home
+backsp del end
 
-right half second:
+right half:
 F9-F12 prsc scrl pause
 67890-
 yuiop\
 hjkl;"
 nm,./ sft
+up down []
+win ctrl pgup
+pgdn enter space
 
 */
 
